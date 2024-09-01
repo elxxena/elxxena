@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/elxxena"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=4ndrexyz&show_icons=true&theme=dark#gh-dark-mode-only"></a>
-  <a href="https://github.com/elxxena"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=4ndrexyz&theme=dark#gh-dark-mode-only&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/elxxena"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=elxxena&show_icons=true&theme=dark#gh-dark-mode-only"></a>
+  <a href="https://github.com/elxxena"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=elxxenaz&theme=dark#gh-dark-mode-only&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 <p>
 
 <br>
@@ -19,7 +19,7 @@
   <a href="https://github.com/elxxena?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Felxxena"/></a>
   <a href="https://github.com/elxxena?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/4ndrexyz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/elxxena?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/elxxena">
   <a href="https://github.com/elxxwna?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
